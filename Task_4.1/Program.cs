@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Task_4._1
 {
-    class Program //Задание 4.1
+    class Program 
     {
         static void Main(string[] args)
         {
