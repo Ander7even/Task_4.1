@@ -28,7 +28,6 @@ namespace Task_4._1
             }
 
             Console.ReadKey();
-
         }
     }
 }
